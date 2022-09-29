@@ -16,9 +16,11 @@
 .idea
 .terraform/
 .vagrant/
+.vscode/
 /pkg/
 Gitlab-license.txt
 bin/
+dist/
 example.tf
 license/*
 modules-dev/
