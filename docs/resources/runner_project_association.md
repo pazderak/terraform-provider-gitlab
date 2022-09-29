@@ -3,7 +3,7 @@
 page_title: "gitlab_runner_project_association Resource - terraform-provider-gitlab"
 subcategory: ""
 description: |-
-  Thegitlab_runner_project_associationallows to enable or disable a particular runner for project
+  The gitlab_runner_project_association allows to enable or disable a particular runner for project
   A runner must be shared instance runner, i.e. registered at the instnance level
   Upstream API:
   - [Gitlab REST API Docs](https://docs.gitlab.com/ee/api/runners.html#enable-a-runner-in-project)
@@ -12,7 +12,7 @@ description: |-
 
 # gitlab_runner_project_association (Resource)
 
-The`gitlab_runner_project_association`allows to enable or disable a particular runner for project
+The `gitlab_runner_project_association` allows to enable or disable a particular runner for project
 
 A runner must be shared instance runner, i.e. registered at the instnance level
 
